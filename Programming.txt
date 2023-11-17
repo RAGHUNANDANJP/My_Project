@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+thi is new git site for downloading
+now i have don some changes on git repo
+agin made some changes in git bash
+
+git stash done here on above file
+
+
+new branch created in new branch
+=======
+new line has been added in this fien kindly checkou in git repo for  ore infor
+
+git stash for example
+
+final out has passed on git hub
+>>>>>>> abc
+RAGHUNANDAN JP project done now
